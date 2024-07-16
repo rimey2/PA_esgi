@@ -5,7 +5,8 @@ prédictions fiables sans nécessiter des compétences avancées en programmatio
 en machine learning. Voici ci-dessous l’objectif principal détaillé en sous-objectifs :
  l'exploration des données : faciliter le travail d’importation des données, offrir
 des paramètres pour inspecter , visualiser les données mais également la gestion
-des valeurs manquantes et l'identification des valeurs aberrantes.  L’automatisation de la modélisation : permettre aux utilisateurs de choisir entre
+des valeurs manquantes et l'identification des valeurs aberrantes. 
+ L’automatisation de la modélisation : permettre aux utilisateurs de choisir entre
 des tâches de régression et de classification binaire, d'effectuer une recherche
 d'hyperparamètres, de chosir leurs propres encodages, de nettoyer les données
 en fonctions des mesures qu’ils souhaitent et tout ceci sans intervention
