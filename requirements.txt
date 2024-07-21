@@ -1,4 +1,9 @@
 Streamlit
 scikit-learn
 xgboost
-
+pandas 
+numpy 
+matplotlib
+seaborn 
+logging
+scipy 
