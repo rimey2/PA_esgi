@@ -1,3 +1,4 @@
 Streamlit
 scikit-learn
-
+xgboost
+XGBRegressor
